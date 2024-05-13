@@ -1,4 +1,4 @@
-READ# S-H4CK13@Maptnh
+# S-H4CK13@Maptnh
 
 from lxml import html
 import requests
